@@ -52,6 +52,8 @@ What happens when a user types www.foobar.com?
 
 
 ## Diagramm :
+Lien Imgur : https://imgur.com/a/pmilFyx
+
 ```mermaid
 graph TD
     User["👤 User<br>www.foobar.com"]
