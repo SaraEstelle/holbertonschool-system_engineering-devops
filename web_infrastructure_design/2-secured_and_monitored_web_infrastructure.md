@@ -43,7 +43,7 @@ Problems to explain:
 2. Single MySQL Primary = SPOF for writes (no automatic failover)
 3. Uniform stack = same software everywhere, one bug can affect all servers
 
-## Imgur link : https://imgur.com/a/labnn5H
+## Imgur link : https://imgur.com/a/rGAXIqd
 
 ## Mermaid diagram :
 ```` mermaid
