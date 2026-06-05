@@ -53,7 +53,7 @@ Why 2 Load Balancers in a cluster?
 - If LB1 fails, LB2 takes over the VIP in < 2 seconds
 - For users: no visible interruption
 ````
-## Imgur link : https://imgur.com/a/tstpClA
+## Imgur link : https://imgur.com/a/ci3ILel
 
 ## Mermaid diagram :
 ````mermaid
