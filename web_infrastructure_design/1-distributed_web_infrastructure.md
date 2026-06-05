@@ -35,6 +35,8 @@ Architecture decisions:
 - Database: Primary‑Replica (Server 1 = Primary, Server 2 = Replica)
 - Application: same code base deployed on Server 1 and Server 2
 
+## Imgur link : https://imgur.com/a/17pEmyc 
+
 ## Mermaid diagram
 ````mermaid
 graph TD
