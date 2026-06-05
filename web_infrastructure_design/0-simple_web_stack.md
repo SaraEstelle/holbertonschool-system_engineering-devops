@@ -51,8 +51,9 @@ What happens when a user types www.foobar.com?
   - High traffic → the server becomes overloaded → no scalability
 
 
+## Imgur link : https://imgur.com/a/pmilFyx
+
 ## Diagramm :
-Lien Imgur : https://imgur.com/a/pmilFyx
 
 ```mermaid
 graph TD
